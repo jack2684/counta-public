@@ -1,1 +1,3 @@
-# counta.github.io
+# Counta
+
+Computer vision at fingertips
